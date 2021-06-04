@@ -1,0 +1,45 @@
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\programozás\project scp\project scp\bin\Debug\project scp.exe.config
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\programozás\project scp\project scp\bin\Debug\project scp.exe
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\programozás\project scp\project scp\bin\Debug\project scp.pdb
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\programozás\project scp\project scp\obj\Debug\project scp.csprojAssemblyReference.cache
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\programozás\project scp\project scp\obj\Debug\MainWindow.g.cs
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\programozás\project scp\project scp\obj\Debug\App.g.cs
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\programozás\project scp\project scp\obj\Debug\project scp_MarkupCompile.cache
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\programozás\project scp\project scp\obj\Debug\project scp_MarkupCompile.lref
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\programozás\project scp\project scp\obj\Debug\MainWindow.baml
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\programozás\project scp\project scp\obj\Debug\project scp.g.resources
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\programozás\project scp\project scp\obj\Debug\project_scp.Properties.Resources.resources
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\programozás\project scp\project scp\obj\Debug\project scp.csproj.GenerateResource.cache
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\programozás\project scp\project scp\obj\Debug\project scp.csproj.CoreCompileInputs.cache
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\programozás\project scp\project scp\obj\Debug\project scp.exe
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\programozás\project scp\project scp\obj\Debug\project scp.pdb
+E:\project scp\project scp\obj\Debug\project scp.csprojAssemblyReference.cache
+E:\project scp\project scp\obj\Debug\MainWindow.g.cs
+E:\project scp\project scp\obj\Debug\App.g.cs
+E:\project scp\project scp\obj\Debug\project scp_MarkupCompile.cache
+E:\project scp\project scp\obj\Debug\project scp_MarkupCompile.lref
+E:\project scp\project scp\obj\Debug\project scp.exe
+E:\project scp\project scp\obj\Debug\project scp.pdb
+E:\project scp\project scp\bin\Debug\project scp.exe.config
+E:\project scp\project scp\bin\Debug\project scp.exe
+E:\project scp\project scp\bin\Debug\project scp.pdb
+E:\project scp\project scp\obj\Debug\MainWindow.baml
+E:\project scp\project scp\obj\Debug\project scp.g.resources
+E:\project scp\project scp\obj\Debug\project_scp.Properties.Resources.resources
+E:\project scp\project scp\obj\Debug\project scp.csproj.GenerateResource.cache
+E:\project scp\project scp\obj\Debug\project scp.csproj.CoreCompileInputs.cache
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\komp. prog\project scp\project scp\bin\Debug\project scp.exe.config
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\komp. prog\project scp\project scp\bin\Debug\project scp.exe
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\komp. prog\project scp\project scp\bin\Debug\project scp.pdb
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\komp. prog\project scp\project scp\obj\Debug\project scp.csprojAssemblyReference.cache
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\komp. prog\project scp\project scp\obj\Debug\MainWindow.g.cs
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\komp. prog\project scp\project scp\obj\Debug\App.g.cs
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\komp. prog\project scp\project scp\obj\Debug\project scp_MarkupCompile.cache
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\komp. prog\project scp\project scp\obj\Debug\project scp_MarkupCompile.lref
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\komp. prog\project scp\project scp\obj\Debug\MainWindow.baml
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\komp. prog\project scp\project scp\obj\Debug\project scp.g.resources
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\komp. prog\project scp\project scp\obj\Debug\project_scp.Properties.Resources.resources
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\komp. prog\project scp\project scp\obj\Debug\project scp.csproj.GenerateResource.cache
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\komp. prog\project scp\project scp\obj\Debug\project scp.csproj.CoreCompileInputs.cache
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\komp. prog\project scp\project scp\obj\Debug\project scp.exe
+C:\Users\semse\OneDrive\Dokumentumok\Mechwart\komp. prog\project scp\project scp\obj\Debug\project scp.pdb
